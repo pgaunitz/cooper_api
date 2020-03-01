@@ -1,24 +1,16 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Cooper challange api  
 
-Things you may want to cover:
+### Author  
+[Blake ](https://github.com/blake-futchi/)  
+[Philip](https://github.com/pgaunitz/)
+## Built with  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 6.0.2.1  
+* RSpec
+* PostgresSQL
+* Pry byebug
+* Deployed at[Heroku] (https://www.heroku.com/).  
+ 
+## License  
+MIT-license
